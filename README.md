@@ -14,11 +14,13 @@ The above command link will generate machine registration code, share the nodeke
 
 `example: nodekey:1d105d475ca131a99e..........................`
 
-__
+``
 
-__
+``
 
-__
+``
+
+``
 
 # ADMIN SIDE
 ``Ssh to the VPN Server``
